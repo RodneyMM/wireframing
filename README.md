@@ -42,7 +42,7 @@ High-fidelity wireframes are more detailed and closer to the final design. They 
 
 ### Example from ALX Platform
 
-The wireframe provided at [ALX Wireframe Link](https://savanna.alxafrica.com/rltoken/HnTbrzrJX1IfPIxugo8Uvw) is an example of a **high-fidelity wireframe**. It includes detailed layout, content, and interface elements that closely resemble the final product.
+The wireframe provided at [here](https://savanna.alxafrica.com/rltoken/HnTbrzrJX1IfPIxugo8Uvw) is an example of a **high-fidelity wireframe**. It includes detailed layout, content, and interface elements that closely resemble the final product.
 
 ---
 
